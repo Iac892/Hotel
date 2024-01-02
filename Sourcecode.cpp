@@ -385,7 +385,7 @@ case 6:
 hm.guestSummaryReport();	
 break;
 case 7:
-cout<<"\nTHANK YOU! FOR USING SOFTWARE\n";
+cout<<"\nTHANK YOU!!!!! FOR USING SOFTWARE\n";
 break;
 default:
 cout<<"\nPlease Enter correct option";
